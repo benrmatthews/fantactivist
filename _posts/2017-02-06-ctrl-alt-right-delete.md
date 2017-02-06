@@ -10,6 +10,7 @@ navigation: True
 logo: 'assets/images/ghost.png'
 ---
 
+
 #### Tell us about yourself and what cause you're working on.
 
 I’m a digital organizer who’s been working at the intersection of politics and technology for over a decade. 
@@ -66,7 +67,7 @@ The #BlackLivesMatter movement, co-founded by three women: Patrisse Cullors, Opa
 
 Reverend William Barber is another. The Moral Mondays actions in North Carolina he led in particular.
 
-And of course the bloggers I came up with and have been following for years: John Aravosis at AmericaBlog, everyone at Daily Kos and Crooks and Liars, and Digby. 
+And of course the bloggers I came up with and have been following for years: John Aravosis at [AmericaBlog](http://americablog.com/), everyone at [Daily Kos](http://www.dailykos.com/) and [Crooks and Liars](http://crooksandliars.com/), and [Digby](http://digbysblog.blogspot.com/). 
 
 #### Where can we go to learn more?
 
