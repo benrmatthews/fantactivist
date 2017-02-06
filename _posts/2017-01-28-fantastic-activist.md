@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/cover5.jpg'
+cover: 'https://static01.nyt.com/images/2017/01/22/us/22MARCH18/22MARCH18-superJumbo.jpg'
 title: Fantastic Activist, activist interviews and community for social movements
 date: 2017-01-28 12:01:00
 tags: 
