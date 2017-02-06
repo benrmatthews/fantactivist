@@ -15,7 +15,7 @@ logo: 'assets/images/ghost.png'
 
 I’m a digital organizer who’s been working at the intersection of politics and technology for over a decade. 
 
-Currently I write a weekly newsletter [Ctrl Alt Right Delete](https://actionnetwork.org/forms/ctrl-alt-right-delete-newsletter-2), devoted to better understanding how the so-called alt-right organizes online and developing strategies and tactics to fight back. 
+Currently I write a weekly newsletter *[Ctrl Alt Right Delete](https://actionnetwork.org/forms/ctrl-alt-right-delete-newsletter-2)*, devoted to better understanding how the so-called alt-right organizes online and developing strategies and tactics to fight back. 
 
 #### What motivated you to get started with your cause ? What were your initial goals? And how'd you come up with the idea?
 
@@ -29,7 +29,7 @@ I started researching, making notes, and looking for patterns. When Trump won I 
 
 #### What did it take to get your cause off the ground? How has it evolved over time?
 
-[Ctrl Alt Right Delete](https://actionnetwork.org/forms/ctrl-alt-right-delete-newsletter-2) started out as a newsletter for friends and colleagues. I think the first one went out to just over 200 people. But in just a couple of months it’s grown to over 1200 subscribers. 
+*[Ctrl Alt Right Delete](https://actionnetwork.org/forms/ctrl-alt-right-delete-newsletter-2)* started out as a newsletter for friends and colleagues. I think the first one went out to just over 200 people. But in just a couple of months it’s grown to over 1200 subscribers. 
 
 At first I was writing for an audience of people I knew, most of whom worked in politics or advocacy already. Over time that audience has grown to include new activists, academics, reporters, and a sizable European readership. I’ve tried to respond to that growth by making the content as useful as possible to a wide audience of people. 
 
@@ -63,7 +63,7 @@ I always recommend Joseph Campbell’s work. Either the Hero with a Thousand Fac
 
 #### What other activists do you admire?
 
-The #BlackLivesMatter movement, co-founded by three women: Patrisse Cullors, Opal Tometi, and Alicia Garza. I admire both what they’re doing and how they’re using social media to communicate and organize.
+[The #BlackLivesMatter movement](http://blacklivesmatter.com/), co-founded by three women: Patrisse Cullors, Opal Tometi, and Alicia Garza. I admire both what they’re doing and how they’re using social media to communicate and organize.
 
 Reverend William Barber is another. The Moral Mondays actions in North Carolina he led in particular.
 
@@ -71,6 +71,6 @@ And of course the bloggers I came up with and have been following for years: Joh
 
 #### Where can we go to learn more?
 
-[You can subscribe to Ctrl Alt Right Delete here](https://actionnetwork.org/forms/ctrl-alt-right-delete-newsletter-2).
+[You can subscribe to *Ctrl Alt Right Delete* here](https://actionnetwork.org/forms/ctrl-alt-right-delete-newsletter-2).
 
 And if you’d like to read some of the content before subscribing, I’d suggest taking a look at an earlier newsletter where I outline how [Trump and his army of alt-right trolls won](https://medium.com/@melissaryan/how-trump-and-his-army-beat-us-online-8be518306b35#.3688d1kgk). 
