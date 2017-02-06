@@ -5,7 +5,7 @@ title: Ctrl Alt Right Delete
 date: 2017-02-06 09:00:00
 tags: speeches fiction
 subclass: 'post tag-speeches'
-categories: 'casper'
+categories: 'fantasticactivist'
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
