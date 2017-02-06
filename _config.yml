@@ -11,19 +11,18 @@ name: 'Fantastic Activist'
 description: 'Activist interviews with leaders of social movements, providing solidarity and inspiration for actvisits everywhere.'
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Fantastic Activist'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+nickname: fantasticactivist
+bio: 'Learn from leading activists who are changing the world.'
+url: 'https://fantasticactivist.com'
+image: 'https://pbs.twimg.com/profile_images/823502114819375108/lthac6D8.jpg'
 
-short_url: 'biomadeira.github.io/jasper/'
+short_url: 'fantasticactivist.com'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /fantasticactivist/
 
 # Permalinks
 permalink: /:title
@@ -56,13 +55,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
+username: benrmatthews
 repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+production_url:  https://benrmatthews.github.io/jasper/
+source_url:      https://github.com/benrmatthews/jasper/
 
 exclude:
   - README.md
