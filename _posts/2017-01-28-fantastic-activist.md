@@ -1,12 +1,14 @@
 ---
-layout: default
-title:  "Fantastic Activist, activist interviews and community for social movements"
-date:   2017-01-28 12:01:00
-permalink: /fantastic-activist/
-pre_https: true
+layout: post
+cover: 'assets/images/cover5.jpg'
+title: Fantastic Activist, activist interviews and community for social movements
+date: 2017-01-28 12:01:00
+tags: 
+subclass: 'post tag-speeches'
+categories: 'interviews'
+navigation: True
+logo: 'assets/images/ghost.png'
 ---
-
-<h1>Fantastic Activist, activist interviews and community for social movements</h1>
 
 <img src="https://static01.nyt.com/images/2017/01/22/us/22MARCH18/22MARCH18-superJumbo.jpg">
 <em>Protesters on 42nd Street in front of Grand Central Terminal during the Women’s March in New York (Photo: Nicole Craine for <a href="https://www.nytimes.com/2017/01/21/us/womens-march.html">The New York Times</a>)</em>
