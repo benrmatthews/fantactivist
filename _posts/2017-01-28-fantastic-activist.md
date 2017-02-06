@@ -4,7 +4,7 @@ cover: true
 title: Fantastic Activist, activist interviews and community for social movements
 date:  2017-01-28 12:01:00
 tags: interviews
-subclass: 'post tag-fiction'
+subclass: 'post tag-interviews'
 categories: 'casper'
 navigation: True
 logo: 'assets/images/ghost.png'
