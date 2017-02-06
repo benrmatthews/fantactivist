@@ -6,7 +6,6 @@ permalink: /sunday-assembly/
 pre_https: true
 ---
 
-<h1>Sunday Assembly  - a secular congregation that celebrates life</h1>
 <p>Sanderson Jones explains how he went from stand up comics to leading a new global social movement with <a href="http://www.sundayassembly.com/">Sunday Assembly.</a></p>
 
 <img src="https://static.standard.co.uk/s3fs-public/thumbnails/image/2013/10/31/16/sunnn.jpg">
