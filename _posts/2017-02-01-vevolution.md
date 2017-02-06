@@ -3,7 +3,7 @@ layout: post
 cover: 'assets/images/cover5.jpg'
 title: Sunday Assembly - vegan events and education
 date: 2017-02-06 09:00:00
-tags: speeches fiction
+tags: interviews
 subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
 navigation: True
