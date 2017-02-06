@@ -1,10 +1,14 @@
 ---
 layout: post
-cover: 'https://static01.nyt.com/images/2017/01/22/us/22MARCH18/22MARCH18-superJumbo.jpg'
+cover: true
 title: Fantastic Activist, activist interviews and community for social movements
-date: 2017-01-28 12:01:00
+date:  2017-01-28 12:01:00
+tags: interviews
+subclass: 'post tag-interviews'
+categories: 'casper'
 navigation: True
 logo: 'assets/images/ghost.png'
+cover: 'assets/images/cover1.jpg'
 ---
 
 <img src="https://static01.nyt.com/images/2017/01/22/us/22MARCH18/22MARCH18-superJumbo.jpg">
@@ -84,19 +88,6 @@ logo: 'assets/images/ghost.png'
 <blockquote>"Within the funder community there is a real shift towards funding movement building for this very reason, because leaving the work to the advocacy organisations/Big INGOs/UN Agencies isn't nearly enough. As an individual I am really struggling in what more I can do... and I'm already doing what I can (petitions, marching, donations, talking to my various MPs/Govt reps directly, policy work, influencing funding in the Philanthropic sector etc)."</blockquote>
 
 <p>Other ideas include a list of cause-related groups. As a friend mentioned when I first raised the idea of this site, there are movements springing-up all over the place. We could create a simple domain and social media presence to track and direct people to relevant types of movement. Trump-focused groups are what a lot of people are thinking about now, but we could also cover other issues as well. This list is a nice idea, but secondary to the interviews and community that will grow here.</p>
-
-<h4>Continue the conversation:<h4>
-
-<div id='discourse-comments'></div>
-<script type="text/javascript">
-  DiscourseEmbed = { discourseUrl: 'http://community.fantasticactivist.com/',
-                     discourseEmbedUrl: 'http://fantasticactivist.com{{post.url}}' };
- (function() {
-    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
-    d.src = localSiteUrl + 'javascripts/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
-  })();
-</script>
 
 <h4>Want to take part in an interview about your cause?</h4>
 
