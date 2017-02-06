@@ -1,9 +1,13 @@
 ---
-layout: default
-title:  "Vevolution - vegan events and education"
-date:   2017-02-01 12:01:00
-permalink: /vevolution-vegan-events-education/
-pre_https: true
+layout: post
+cover: 'assets/images/cover5.jpg'
+title: Sunday Assembly - vegan events and education
+date: 2017-02-06 09:00:00
+tags: speeches fiction
+subclass: 'post tag-speeches'
+categories: 'fantasticactivist'
+navigation: True
+logo: 'assets/images/ghost.png'
 ---
 
 <h1>Vevolution - vegan events and education</h1>
