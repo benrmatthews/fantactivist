@@ -1,10 +1,15 @@
 ---
-layout: default
-title:  "Sunday Assembly - a secular congregation that celebrates life"
-date:   2017-02-03 09:01:00
-permalink: /sunday-assembly/
-pre_https: true
+layout: post
+cover: 'assets/images/cover5.jpg'
+title: Sunday Assembly - a secular congregation that celebrates life
+date: 2017-02-06 09:00:00
+tags: speeches fiction
+subclass: 'post tag-speeches'
+categories: 'fantasticactivist'
+navigation: True
+logo: 'assets/images/ghost.png'
 ---
+
 
 <p>Sanderson Jones explains how he went from stand up comics to leading a new global social movement with <a href="http://www.sundayassembly.com/">Sunday Assembly.</a></p>
 
