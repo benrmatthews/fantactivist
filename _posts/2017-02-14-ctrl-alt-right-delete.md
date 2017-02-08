@@ -1,8 +1,8 @@
 ---
 layout: post
 cover: 'assets/images/cover5.jpg'
-title: Ctrl Alt Right Delete
-date: 2017-02-06 09:00:00
+title: Ctrl Alt Right Delete - strategies and tactics to fight back against the alt-right
+date: 2017-02-14 09:00:00
 tags: interviews
 subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
@@ -10,6 +10,7 @@ navigation: True
 logo: 'assets/images/fantastic-activist-logo.png'
 ---
 
+Meliis Ryan tells us about her newsletter devoted to understanding how the right operates online and developing strategies and tactics to fight back.
 
 #### Tell us about yourself and what cause you're working on.
 
