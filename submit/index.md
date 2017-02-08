@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submut your interview
+title: Submit your interview
 class: 'post'
 navigation: True
 logo: 'assets/images/fantastic-activist-logo-dark.png'
@@ -25,4 +25,4 @@ current: submit
 <h3>Ready to submit your interview?</h3>
 <p><a href="https://docs.google.com/a/montfort.io/forms/d/e/1FAIpQLSdmLSF9un-r704IIjQeWP7VPg4pcdiPkWXdP5klxgYBQ7nAmg/viewform">Fill in this form</a>.</p>
 
-<p>Once ypu've submitted your basic details, we'll be in touch with any further questions needed.</p>
+<p>Once you've submitted your basic details, we'll be in touch with any further questions needed.</p>
