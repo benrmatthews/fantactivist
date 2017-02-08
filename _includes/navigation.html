@@ -6,9 +6,10 @@
     <ul>
         <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">Home</a></li>
         <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}about">About</a></li>
+        <li class="nav-subscribe {% if page.url contains 'subscribe' %} nav-current{% endif %}" role="presentation"><a href="http://eepurl.com/cA_Psf">Subscribe</a></li>
         <li class="nav-community {% if page.url contains 'community' %} nav-current{% endif %}" role="presentation"><a href="http://community.fantasticactivist.com/">Community</a></li>
         <li class="nav-submit {% if page.url contains 'submit' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}submit">Submit</a></li>
     </ul>
-    <a class="subscribe-button icon-feed" href="{{ site.baseurl }}subscribe">Subscribe</a>
+    <a class="subscribe-button icon-feed" href="http://eepurl.com/cA_Psf">Subscribe</a>
 </div>
 <span class="nav-cover"></span>
