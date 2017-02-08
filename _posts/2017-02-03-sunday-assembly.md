@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/cover5.jpg'
+cover: 'assets/images/Sunday%20Assembly.jpg'
 title: Sunday Assembly - a secular congregation that celebrates life
 date: 2017-02-06 09:00:00
 tags: interviews
@@ -8,12 +8,11 @@ subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
 navigation: True
 logo: 'assets/images/fantastic-activist-logo.png'
+excerpt: Sanderson Jones explains how he went from stand up comics to leading a new global social movement
 ---
 
 
 <p>Sanderson Jones explains how he went from stand up comics to leading a new global social movement with <a href="http://www.sundayassembly.com/">Sunday Assembly.</a></p>
-
-<img src="https://static.standard.co.uk/s3fs-public/thumbnails/image/2013/10/31/16/sunnn.jpg">
 
 <h4>Tell us about yourself and what causes you're working on.</h4>
 
