@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover5.jpg'
 title: Ctrl Alt Right Delete - strategies and tactics to fight back against the alt-right
-date: 2017-02-14 09:00:00
+date: 2017-02-07 09:00:00
 tags: interviews
 subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
