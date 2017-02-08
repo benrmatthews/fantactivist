@@ -31,6 +31,7 @@ I started researching, making notes, and looking for patterns. When Trump won I 
 <br>
 <img src="https://github.com/benrmatthews/fantactivist/blob/master/assets/images/Ctrl_Alt_Right_Delete_Email_Header.png?raw=true">
 <br>
+
 #### What did it take to get your cause off the ground?
 
 *[Ctrl Alt Right Delete](https://actionnetwork.org/forms/ctrl-alt-right-delete-newsletter-2)* started out as a newsletter for friends and colleagues. I think the first one went out to just over 200 people. But in just a couple of months it’s grown to over 1200 subscribers. 
