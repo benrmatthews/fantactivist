@@ -40,6 +40,8 @@ At first I was writing for an audience of people I knew, most of whom worked in 
 
 <a href="https://medium.com/@melissaryan/ctrl-alt-right-delete-6eefe75541fb#.w20lbkzfv">Medium</a> is the biggest driver of subscribers. I publish an excerpt from the newsletter every week as a standalone article and those posts result in half of new subscribers. Forwarded emails are the second highest driver. At this point I haven’t done any ads or much in the way of promotion beyond my own tweets and Facebook posts, but I’m considering running some ads down the road since there’s obviously a lot of interest in the topic. 
 
+<img src="https://github.com/benrmatthews/fantactivist/blob/master/assets/images/trump-alt-right.jpeg?raw=true">
+
 #### What's the story behind the sustainability of your cause?
 
 It’s a volunteer effort and as of right now I’m not trying to raise funds or build a business. We’ll see if I still feel that way in six months. It all depends on how much continued interest and growth there is. 
