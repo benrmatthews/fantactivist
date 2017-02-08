@@ -91,7 +91,12 @@ excerpt: 'Solidarity gives activists and causes strength, protection and a bigge
 
 Here are the first set of Fantastic Activist interviews:
 
-{% include loop.html %}
+<ul>
+<li>BARAC - Black activists against rising cuts</li>
+<li>Ctrl Alt Right Delete - strategies and tactics to fight back against the alt-right</li>
+<li>Vevolution - vegan events and education</li>
+<li>Sunday Assembly - a secular congregation that celebrates life</li>
+</ul>
 
 <h4>Want to take part in an interview about your cause?</h4>
 
