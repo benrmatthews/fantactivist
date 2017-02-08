@@ -7,7 +7,7 @@ tags: interviews
 subclass: 'post tag-interviews'
 categories: 'casper'
 navigation: True
-logo: 'assets/images/fantastic-activist-logo-black.png'
+logo: 'assets/images/fantastic-activist-logo-white.png'
 cover: 'assets/images/cover1.jpg'
 ---
 
