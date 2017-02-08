@@ -15,7 +15,7 @@ author: 'Fantastic Activist'
 # edit 'categories' in the front matter of every post to match this username
 nickname: fantasticactivist
 bio: 'Learn from leading activists who are changing the world.'
-url: 'http://benrmatthews.github.io/fantactivist/'
+url: 'https://fantasticactivist.com/'
 image: 'assets/images/fantastic%20activist.jpg'
 
 short_url: 'benrmatthews.github.io/jasper/'
@@ -60,7 +60,7 @@ repo: fantactivist
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://benrmatthews.github.io/fantactivist/
+production_url:  https://fantasticactivist.com/
 source_url:      https://github.com/benrmatthews/fantactivist/
 
 exclude:
