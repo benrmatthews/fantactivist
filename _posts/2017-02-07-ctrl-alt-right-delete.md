@@ -28,6 +28,8 @@ And what I found was a call to action to attack me on a white supremacist messag
 
 I started researching, making notes, and looking for patterns. When Trump won I realized this information would be useful to others who wanted to oppose him and the army of online trolls amplifying his message. I decided a regular newsletter would be the best way to accomplish that.
 
+<img src="https://github.com/benrmatthews/fantactivist/blob/master/assets/images/Ctrl_Alt_Right_Delete_Email_Header.png?raw=true">
+
 #### What did it take to get your cause off the ground?
 
 *[Ctrl Alt Right Delete](https://actionnetwork.org/forms/ctrl-alt-right-delete-newsletter-2)* started out as a newsletter for friends and colleagues. I think the first one went out to just over 200 people. But in just a couple of months it’s grown to over 1200 subscribers. 
