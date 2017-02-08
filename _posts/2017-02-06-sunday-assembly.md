@@ -58,3 +58,11 @@ excerpt: Sanderson Jones explains how he went from stand up comics to leading a 
 <li><a href="https://www.facebook.com/TheSundayAssembly/">Sunday Assembly Facebook page</a></li>
 <li><a href="https://twitter.com/sundayassembly?lang=en">@SundayAssembly</a></li>
 </ul>
+
+Want to take part in an interview about your cause?
+If you want to take part, just head to the submission page and read the guidelines. Feel free to point others there as well.
+
+Keep updated with Fantastic Activist
+Want to continue the conversation? Take a look at the Fantastic Activist community.
+
+You can follow us on Twitter @fantasticactivist and like us on Facebook.
