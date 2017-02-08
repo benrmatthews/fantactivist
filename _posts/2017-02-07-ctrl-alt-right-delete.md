@@ -90,5 +90,4 @@ And if you’d like to read some of the content before subscribing, I’d sugges
 
 <p>Want to continue the conversation? Take a look at <a href="http://community.fantasticactivist.com/">the Fantastic Activist community</a>.</p>
 
-<p>You can <a href="http://twitter.com/fantasticactivist">follow us on Twitter @fantasticactivist</a> and <a href="http://facebook.com/fantasticactivist">like us on Facebook.</a></p>
-
+<p>You can <a href="http://twitter.com/fantactivist">follow us on Twitter @fantactivist</a> and <a href="http://facebook.com/fantasticactivist">like us on Facebook.</a></p>
