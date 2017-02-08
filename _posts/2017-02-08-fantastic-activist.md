@@ -87,6 +87,12 @@ excerpt: 'Solidarity gives activists and causes strength, protection and a bigge
 
 <p>Other ideas include a list of cause-related groups. As a friend mentioned when I first raised the idea of this site, there are movements springing-up all over the place. We could create a simple domain and social media presence to track and direct people to relevant types of movement. Trump-focused groups are what a lot of people are thinking about now, but we could also cover other issues as well. This list is a nice idea, but secondary to the interviews and community that will grow here.</p>
 
+<h2>Activist Interviews</h2>
+
+Here are the first set of Fantastic Activist interviews:
+
+{% include loop.html %}
+
 <h4>Want to take part in an interview about your cause?</h4>
 
 <p>If you want to take part, just head to <a href="/submit">the submission page</a> and read the guidelines. Feel free to point others there as well.</p>
