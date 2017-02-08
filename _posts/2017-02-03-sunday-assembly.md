@@ -52,4 +52,9 @@ excerpt: Sanderson Jones explains how he went from stand up comics to leading a 
 
 <p>We’re also working with housing associations and Guy’s and St. Thomas’ charity to build community for them using our structures and techniques. There are huge health benefits being part of a community, particularly as social isolation increases as an issue.</p>
 
-&nbsp;
+<h4>Where can we find out more?</h4>
+<ul>
+<li><a href="http://www.sundayassembly.com/">SundayAssembly.com</a></li>
+<li><a href="https://www.facebook.com/TheSundayAssembly/">Sunday Assembly Facebook page</a></li>
+<li><a href="https://twitter.com/sundayassembly?lang=en">@SundayAssembly</a></li>
+</ul>
