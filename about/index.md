@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About
+title: About Fantastic Activist
 class: 'post'
 navigation: True
 logo: 'assets/images/fantastic-activist-logo-dark.png'
 current: about
 ---
 
-<h2>What is Fantastic Activist?</h2>
 <p>Fantastic Activist is a place where the leading activists and founders of social movements can share their stories transparently, and where activists can come to read and learn from those examples. It's also a community where aspiring activists can come together to share their experiences, give and receive feedback, and rely on one another for support.</p>
 
 <h2>What it's in it for me?</h2>
