@@ -7,10 +7,8 @@ tags: interviews
 subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
 navigation: True
-logo: 'assets/images/ghost.png'
 ---
 
-<h1>Vevolution - vegan events and education</h1>
 <p>Damien Clarkson tells us how he grew Vevolution, a vegan events and education company, which started from an event in London that has grown into the TED Talks of veganism.</p>
 
 <img src="https://sinfreesophia.files.wordpress.com/2017/01/img_9881.jpg">
