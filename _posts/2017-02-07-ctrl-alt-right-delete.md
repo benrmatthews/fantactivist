@@ -79,3 +79,14 @@ And of course the bloggers I came up with and have been following for years: Joh
 [You can subscribe to *Ctrl Alt Right Delete* here](https://actionnetwork.org/forms/ctrl-alt-right-delete-newsletter-2).
 
 And if you’d like to read some of the content before subscribing, I’d suggest taking a look at an earlier newsletter where I outline how [Trump and his army of alt-right trolls won](https://medium.com/@melissaryan/how-trump-and-his-army-beat-us-online-8be518306b35#.3688d1kgk). 
+
+<h4>Want to take part in an interview about your cause?</h4>
+
+<p>If you want to take part, just head to <a href="/submit">the submission page</a> and read the guidelines. Feel free to point others there as well.</p>
+
+<h4>Keep updated with Fantastic Activist</h4>
+
+<p>Want to continue the conversation? Take a look at <a href="http://community.fantasticactivist.com/">the Fantastic Activist community</a>.</p>
+
+<p>You can <a href="http://twitter.com/fantasticactivist">follow us on Twitter @fantasticactivist</a> and <a href="http://facebook.com/fantasticactivist">like us on Facebook.</a></p>
+
