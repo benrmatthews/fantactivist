@@ -52,6 +52,8 @@ Right now Ctrl Alt Right Delete is just my voice, but there’s so much amazing 
 
 I underestimated interest in this. If I were starting over again I’d probably plan out my launch better, and have executed an actual plan for promotion. 
 
+<img src="https://github.com/benrmatthews/fantactivist/blob/master/assets/images/Ctrl-Alt-Right-Delete.jpeg?raw=true">
+
 #### What's been most helpful to you on your journey?
 
 My biggest advantage in understanding the so-called alt-right is my own background. I got into politics through blogs and Internet activism. And I’ve always had an appreciation for grassroots movements that use social media to organize. That experience, as well as my professional work in politics, helps me see things in a unique way. I see this newsletter as a way to communicate what I see to others in a way that’s useful and easy to digest. 
