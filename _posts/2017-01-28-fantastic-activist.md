@@ -7,12 +7,10 @@ tags: interviews
 subclass: 'post tag-interviews'
 categories: 'casper'
 navigation: True
-logo: 'assets/images/fantastic-activist-logo-white.png'
-cover: 'assets/images/cover1.jpg'
+logo: 'assets/images/fantastic-activist-logo.png'
+cover: 'assets/images/activist-interviews.jpg'
+excerpt: 'Solidarity gives activists and causes strength, protection and a bigger voice. This is what makes communities of acivists so powerful.'
 ---
-
-<img src="https://static01.nyt.com/images/2017/01/22/us/22MARCH18/22MARCH18-superJumbo.jpg">
-<em>Protesters on 42nd Street in front of Grand Central Terminal during the Women’s March in New York (Photo: Nicole Craine for <a href="https://www.nytimes.com/2017/01/21/us/womens-march.html">The New York Times</a>)</em>
 
 <p>It was a clear, crisp winter's day in London. Streams of people flowed through the narrow winding streets, descending on a central London square. As the crowds spilled into the green open spaces of the square, the friendly and welcoming atmosphere hit them all. The crowd was there together, fighting for the same causes and recognising the other marchers who believed in the same principles as they do.</p>
 
