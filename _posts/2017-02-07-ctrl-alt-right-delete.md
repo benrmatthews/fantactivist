@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/cover5.jpg'
+cover: 'assets/images/Ctrl-Alt-Right-Delete.jpeg'
 title: Ctrl Alt Right Delete - strategies and tactics to fight back against the alt-right
 date: 2017-02-07 09:00:00
 tags: interviews
