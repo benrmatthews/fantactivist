@@ -1,21 +1,22 @@
 ---
 layout: page
-title: About Fantastic Activist
+title: Submut your interview
 class: 'post'
 navigation: True
 logo: 'assets/images/fantastic-activist-logo-dark.png'
-current: about
+current: submit
 ---
 
-<p>Fantastic Activist is a place where the leading activists and founders of social movements can share their stories transparently, and where activists can come to read and learn from those examples. It's also a community where aspiring activists can come together to share their experiences, give and receive feedback, and rely on one another for support.</p>
+<p>Share your story and join other activists who've done an interview for Fantastic Activist.</p>
 
-<h2>What it's in it for me?</h2>
-<p>Free traffic and marketing (useful for finding new supporters and partners); feedback opportunities from the people who read your interview; a unique and cathartic chance to share your knowledge and experiences with the world; and the warm feeling that comes from knowing your story will help others like you.</p>
+<h3>How do you get started?</h3>
+<p>Just <a href="https://docs.google.com/a/montfort.io/forms/d/e/1FAIpQLSdmLSF9un-r704IIjQeWP7VPg4pcdiPkWXdP5klxgYBQ7nAmg/viewform">fill out this form</a> for your cause or social movement, and I'll get back to you (over email) with a standard set of interview questions for you to answer. 👍</p>
+  
+<h3>Who is eligible to be interviewed?</h3>
+<p>Anyone who has started a cause or social movement that has generated some social impact. If your cause hasn't launched yet, or if it launched within the past couple of months, then it's probably too early for an interview. If in doubt, please get in touch anyway.</p>
 
-<h2>Can you interview me or my cause?</h2>
-<p>While some causes might be too early in their campaigns to have generated quanitifable social impact, doing a Fantastic Activist interview can be a great way to get the word out about your cause and recruit more supporters. If you want to take part, just head to <a href="/submit">the submission page</a> and read the guidelines. Feel free to point others there as well.
-
-<h2>What's the best way to contact you?</h2>
-<p>If you're looking for help, feedback, or guidance with something personal, I encourage you to post in the <a href="http://community.fantasticactivist.com">Fantastic Activist community</a> instead of contacting me. You'll get lots of great replies people in the community. If you ignore this and email me instead, I may well direct you to the <a href="http://community.fantasticactivist.com">Fantastic Activist community</a> anyway. 😁</p>
-
-<p>For anything else, tweet <a href="http://twitter.com/fantasticactivist.com">@fantactivist</a> or email <a href="mailto:hello@fantasticactivist.com">hello@fantasticactivist.com</a>.</p>
+<h3>Can my interview be anonymous?</h3>
+<p>We understand that some people may be working with sensitive issues and may not want to become a potential target. As such, we respect your right to remain anonymous. We only ask for an email address so we can contact you about your interview, but will treat all contact sensitively.</p>
+   
+<h3>Ready to submit your interview?</h3>
+<p><a href="https://docs.google.com/a/montfort.io/forms/d/e/1FAIpQLSdmLSF9un-r704IIjQeWP7VPg4pcdiPkWXdP5klxgYBQ7nAmg/viewform">Fill in this form</a>.</p>
