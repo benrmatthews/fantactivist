@@ -7,7 +7,7 @@ tags: interviews
 subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
 navigation: True
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/fantastic-activist-logo-black.png'
 ---
 
 
