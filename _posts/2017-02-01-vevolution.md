@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/cover5.jpg'
+cover: 'assets/images/Vevolution%20-%20vegan%20events%20and%20education.JPG'
 title: Vevolution - vegan events and education
 date: 2017-02-06 09:00:00
 tags: interviews
