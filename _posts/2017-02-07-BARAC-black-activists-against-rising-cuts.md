@@ -17,6 +17,8 @@ excerpt: Zita Holbourne explains how BARAC grew as a social movement following t
 <h4>Tell us about yourself and what causes you're working on.</h4>
 
 <p>We were founded in 2010 to respond to the disproportionate impact on black communities of austerity but our remit has widened to campaign also against discrimination towards migrants and refugees, solidarity and aid missions to refugees, campaigning against xenophobia and campaigning against wider racism and injustice faced by black and migrant communities.</p>   
+<iframe width="853" height="480" src="https://www.youtube.com/embed/YXmrpTDr6jU" frameborder="0" allowfullscreen></iframe>
+
 <h4>What motivated you to get started with your cause ? What were your initial goals? And how'd you come up with the idea?</h4>
 
 <p>In 2010 we knew that more cuts would come which would have a devastating impact on black communities, workers and service users and for me as a trade union representative I saw the need to do more than I could do within my own union.</p> 
