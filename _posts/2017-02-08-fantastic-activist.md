@@ -25,9 +25,9 @@ excerpt: 'Solidarity gives activists and causes strength, protection and a bigge
 
 <p>I'll be the first to admit that I am not an active activist and this was one of the first marches that I'd ever been on.</p>
 
-<p>I grew up in a politically apathetic family, middle class and comfortable. Why would I need to protest and campaign if my family and I were ok?</p>
+<p>I grew up in a politically apathetic family. Middle class and comfortable. Why would I need to protest and campaign if my family and I were ok?</p>
 
-<p>But that's not how the modern world works. Showing your support for a cause - even if it doesn't directly affect you - is important, as the people campaigning are often those in less a position of power than those they're campaigning against.</p>
+<p>But that's not how the modern world works. Showing your support for a cause - even if it doesn't directly affect you - is important. The people campaigning are often those in less a position of power than those they're campaigning against.</p>
 
 <p>I also feel that I'm an inexperienced activist. In my work I'm much more of a curator of other people's voice. What do I have to give to help activists around the world?</p>
 
@@ -36,7 +36,7 @@ excerpt: 'Solidarity gives activists and causes strength, protection and a bigge
 
 <h2>Giving activists everywhere solidarity and inspiration</h2>
 
-<p>Today's activists are building on social movements and lessons learned from history - people like Nelson Mandela, Martin Luther Muhammad Ali, Emeline Pankhurst, Gandhi. And thats not to mention the thousands oF lesser known activists that played a vital part for their causes.</p>
+<p>Today's activists are building on social movements and lessons learned from history - people like Nelson Mandela, Martin Luther Muhammad Ali, Emeline Pankhurst, Gandhi. And thats not to mention the thousands of lesser known activists that played a vital part for their causes.</p>
 
 <p>Even recent history - from the Arab Spring through to the Occupy movement - activism has always been a part of history and is present everywhere.</p>
 
@@ -67,7 +67,7 @@ excerpt: 'Solidarity gives activists and causes strength, protection and a bigge
 
 <p>What kind of political questions should we be asking? How do we understand the weaknesses of our cause? How can we build strength behind our movement and how do we best use that power?</p>
 
-<h2>Amazingly accessibe activism</h2>
+<h2>Amazingly accessible activism</h2>
 
 <p>That's where Fantastic Activist comes in.</p>
 
@@ -77,7 +77,7 @@ excerpt: 'Solidarity gives activists and causes strength, protection and a bigge
 
 <p>The community will also be a place to share ideas and inspiration, what's working in campaigns and what's not.</p>
 
-<p>For the people we interview, we will keep anonymity and sensitivity for those activists who needed it.</p>
+<p>For the people we interview, we will keep anonymity and sensitivity for those activists who need it.</p>
 
 <p>When I put this idea out to my own community, I got a few further ideas back.</p>
 
@@ -106,4 +106,4 @@ Here are the first set of Fantastic Activist interviews:
 
 <p>Want to continue the conversation? Take a look at <a href="http://community.fantasticactivist.com/">the Fantastic Activist community</a>.</p>
 
-<p>You can <a href="http://twitter.com/fantasticactivist">follow us on Twitter @fantasticactivist</a> and <a href="http://facebook.com/fantasticactivist">like us on Facebook.</a></p>
+<p>You can <a href="http://twitter.com/fantactivist">follow us on Twitter @fantactivist</a> and <a href="http://facebook.com/fantasticactivist">like us on Facebook.</a></p>
