@@ -22,7 +22,7 @@ short_url: 'benrmatthews.github.io/jasper/'
 google_analytics: UA-90755495-2
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /fantactivist/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -60,7 +60,7 @@ repo: fantactivist
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://fantasticactivist.com/
+production_url:  https://github.com/benrmatthews/fantactivist/
 source_url:      https://github.com/benrmatthews/fantactivist/
 
 exclude:
