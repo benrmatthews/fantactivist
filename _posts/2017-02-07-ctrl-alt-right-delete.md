@@ -8,9 +8,10 @@ subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
 navigation: True
 logo: 'assets/images/fantastic-activist-logo.png'
+excerpt: Melissa Ryan tells us about her newsletter devoted to understanding how the right operates online and developing strategies and tactics to fight back.
 ---
 
-Meliis Ryan tells us about her newsletter devoted to understanding how the right operates online and developing strategies and tactics to fight back.
+Melissa Ryan tells us about her newsletter devoted to understanding how the right operates online and developing strategies and tactics to fight back.
 
 #### Tell us about yourself and your cause
 
