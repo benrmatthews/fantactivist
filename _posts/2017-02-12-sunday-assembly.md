@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/Sunday%20Assembly.jpg'
 title: Sunday Assembly - a secular congregation that celebrates life
-date: 2017-02-06 09:00:00
+date: 2017-02-12 09:00:00
 tags: interviews
 subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
