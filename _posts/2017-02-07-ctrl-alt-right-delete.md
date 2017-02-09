@@ -7,7 +7,7 @@ tags: interviews
 subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
 navigation: True
-logo: 'assets/images/fantastic-activist-logo.png'
+logo: 'assets/images/fantastic-activist-logo-white.png'
 excerpt: Melissa Ryan tells us about her newsletter devoted to understanding how the right operates online and developing strategies and tactics to fight back.
 ---
 
