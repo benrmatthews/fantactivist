@@ -7,7 +7,7 @@ tags: interviews
 subclass: 'post tag-interviews'
 categories: 'casper'
 navigation: True
-logo: 'assets/images/fantastic-activist-logo.png'
+logo: 'assets/images/fantastic-activist-logo-white.png'
 cover: 'assets/images/activist-interviews.jpg'
 excerpt: 'Solidarity gives activists and causes strength, protection and a bigger voice. This is what makes communities of acivists so powerful.'
 ---
