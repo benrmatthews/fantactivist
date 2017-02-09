@@ -7,7 +7,7 @@ tags: interviews
 subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
 navigation: True
-logo: 'assets/images/fantastic-activist-logo.png'
+logo: 'assets/images/fantastic-activist-logo-white.png'
 excerpt: Sanderson Jones explains how he went from stand up comics to leading a new global social movement
 ---
 
