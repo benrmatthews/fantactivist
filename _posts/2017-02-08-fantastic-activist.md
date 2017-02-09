@@ -89,14 +89,18 @@ excerpt: 'Solidarity gives activists and causes strength, protection and a bigge
 
 <h2>Activist Interviews</h2>
 
-Here are the first set of Fantastic Activist interviews:
+<p>When I put the word out about the idea of Fantastic Activist, a few people stepped forward to be the initial interviews to appear on the site.</p>
+
+<p>Here are the first set of Fantastic Activist interviews:</p>
 
 <ul>
-<li>BARAC - Black activists against rising cuts</li>
-<li>Ctrl Alt Right Delete - strategies and tactics to fight back against the alt-right</li>
-<li>Vevolution - vegan events and education</li>
-<li>Sunday Assembly - a secular congregation that celebrates life</li>
+<li><a href="https://fantasticactivist.com/BARAC-black-activists-against-rising-cuts">BARAC - Black activists against rising cuts</a></li>
+<li><a href="https://fantasticactivist.com/ctrl-alt-right-delete">Ctrl Alt Right Delete - strategies and tactics to fight back against the alt-right</a></li>
+<li><a href="https://fantasticactivist.com/vevolution">Vevolution - vegan events and education</a></li>
+<li><a href="https://fantasticactivist.com/sunday-assembly">Sunday Assembly - a secular congregation that celebrates life</a></li>
 </ul>
+
+<p>I’m delighted that they represent such diverse, wide-range of issues, which is something that should be reflected in the site.</p>
 
 <h4>Want to take part in an interview about your cause?</h4>
 
