@@ -7,7 +7,7 @@ tags: interviews
 subclass: 'post tag-fiction'
 categories: 'fantasticactivist'
 navigation: True
-logo: 'assets/images/fantastic-activist-logo.png'
+logo: 'assets/images/fantastic-activist-logo-white.png'
 cover: 'assets/images/BARAC%20-%20Black%20activists%20against%20rising%20cuts.jpeg'
 excerpt: Zita Holbourne explains how BARAC grew as a social movement following the 2010 General Election
 ---
