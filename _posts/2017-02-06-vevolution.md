@@ -7,7 +7,7 @@ tags: interviews
 subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
 navigation: True
-logo: 'assets/images/fantastic-activist-logo.png'
+logo: 'assets/images/fantastic-activist-logo-white.png'
 excerpt: Damien Clarkson tells us how he grew Vevolution, a vegan events and education company, which started from an event in London that has grown into the TED Talks of veganism.
 ---
 
