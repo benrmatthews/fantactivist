@@ -100,7 +100,7 @@ excerpt: 'Solidarity gives activists and causes strength, protection and a bigge
 <li><a href="https://fantasticactivist.com/sunday-assembly">Sunday Assembly - a secular congregation that celebrates life</a></li>
 </ul>
 
-<p>I’m delighted that they represent such diverse, wide-range of issues, which is something that should be reflected in the site.</p>
+<p>I’m delighted that they represent a diverse, wide-range of issues, which is something that should be reflected in the site.</p>
 
 <h4>Want to take part in an interview about your cause?</h4>
 
