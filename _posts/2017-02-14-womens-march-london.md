@@ -11,7 +11,7 @@ logo: 'assets/images/fantastic-activist-logo-white.png'
 cover: 'assets/images/womens-march-on-london.jpg'
 excerpt: Co-organiser Kimberly explains how Women's March on London attracted over 100,000 to their first ever event.
 ---
-
+&nbsp;
 Co-organiser Kimberly explains how Women's March on London attracted over 100,000 to their first ever event.
 
 #### Tell us about yourself and what cause you're working on.
