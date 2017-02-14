@@ -12,11 +12,14 @@ cover: 'assets/images/womens-march-on-london.jpg'
 excerpt: Co-organiser Kimberly explains how Women's March on London attracted over 100,000 to their first ever event.
 ---
 
+<iframe src="https://player.vimeo.com/video/203443164?byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
 ## Tell us about yourself and what cause you're working on.
 
 My name is Kimberly. I live in London and am a freelance food photographer and yoga teacher. 
 
-I am part of the Women's March on London collective who organised the Women's March on London on 21 January 2017.
+I am part of the [Women's March on London collective](https://www.womensmarchlondon.com) who organised the Women's March on London on 21 January 2017.
 
 #### What motivated you to get started with your cause ? What were your initial goals? And how'd you come up with the idea?
 
@@ -30,11 +33,13 @@ I hit the internet and within hours found a handful of other UK-based women - no
 
 #### What did it take to get your cause off the ground? How has it evolved over time?
 
-As noted already, we found each other via the internet - facebook to be exact. Setting up the page really was quick and easy, but everything thereafter was a labour of love. I mean we were strangers to one another with just one common goal, to march on the 21st of January. It took a lot of discussion and time to work out roles and to overcome our differences. What became very clear from the outset however was how committed we all were in making the march happen and giving human rights, women's rights, solidarity and equality the platform they deserved. That really allowed us to pull through. That and 10 weeks of sleepless nights as we needed to learn about getting permits, finding speakers for our rally, liaising with the press and promoting the event via social media in such a way that it would have a wide enough reach to name but a few of the things we had to do to make the event a success.
+As noted already, we found each other via the internet - facebook to be exact. Setting up the page really was quick and easy, but everything thereafter was a labour of love. I mean we were strangers to one another with just one common goal, to march on the 21st of January. 
+
+It took a lot of discussion and time to work out roles and to overcome our differences. What became very clear from the outset however was how committed we all were in making the march happen and giving human rights, women's rights, solidarity and equality the platform they deserved. 
+
+That really allowed us to pull through. That and 10 weeks of sleepless nights as we needed to learn about getting permits, finding speakers for our rally, liaising with the press and promoting the event via social media in such a way that it would have a wide enough reach to name but a few of the things we had to do to make the event a success.
 
 From our humble beginnings in snowballed into a massive movement that is still going!
-
-<iframe src="https://player.vimeo.com/video/203443164?byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 #### How have you attracted supporters and grown your cause?
 
