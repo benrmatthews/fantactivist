@@ -18,7 +18,7 @@ My name is Kimberly. I live in London and am a freelance food photographer and y
 
 I am part of the Women's March on London collective who organised the Women's March on London on 21 January 2017.
 
-## What motivated you to get started with your cause ? What were your initial goals? And how'd you come up with the idea?
+#### What motivated you to get started with your cause ? What were your initial goals? And how'd you come up with the idea?
 
 During 2016 saw a lot of political upheaval and unrest - Brexit, Aleppo, Jo Cox's stabbing and the presidential campaign in the United States, which of course resulted in Trump's election. 
 
@@ -28,7 +28,7 @@ When Trump got elected I was incredibly upset. Then I heard about a Women's Marc
 
 I hit the internet and within hours found a handful of other UK-based women - none of us with any political affiliation or experience - and started the grassroots movement which was to become The Women's March on London. We got more than 100,000 people to march in the streets of London, which exceeded our wildest dreams!
 
-## What did it take to get your cause off the ground? How has it evolved over time?
+#### What did it take to get your cause off the ground? How has it evolved over time?
 
 As noted already, we found each other via the internet - facebook to be exact. Setting up the page really was quick and easy, but everything thereafter was a labour of love. I mean we were strangers to one another with just one common goal, to march on the 21st of January. It took a lot of discussion and time to work out roles and to overcome our differences. What became very clear from the outset however was how committed we all were in making the march happen and giving human rights, women's rights, solidarity and equality the platform they deserved. That really allowed us to pull through. That and 10 weeks of sleepless nights as we needed to learn about getting permits, finding speakers for our rally, liaising with the press and promoting the event via social media in such a way that it would have a wide enough reach to name but a few of the things we had to do to make the event a success.
 
@@ -36,13 +36,13 @@ From our humble beginnings in snowballed into a massive movement that is still g
 
 <iframe src="https://player.vimeo.com/video/203443164?byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## How have you attracted supporters and grown your cause?
+#### How have you attracted supporters and grown your cause?
 
 We were very lucky as we found a number of organisations such as Unite the Union, Amnesty International and Greenpeace who understood our core message straight away and supported us from very early on. I think what helped in gaining their interest was the fact that the issues we were marching for felt so relevant, so poignant to that moment in time; perhaps if we'd tried to march a year earlier it wouldn't have been as well received though of course we'll never know.
 
 We also worked hard at connecting with the relevant people on social media and attracting their attention as best we could. This lead to us being featured in The Guardian, Stylist magazine and other big newspapers. 
 
-##  What's the story behind the sustainability of your cause? Is there a revenue generating component to what you do, or is it mainly volunteer work?
+#### What's the story behind the sustainability of your cause? Is there a revenue generating component to what you do, or is it mainly volunteer work?
 
 We are a non-for-profit organisation. This means that none of us take home any money for time that we put into WMOL; we all work on a voluntary basis on WMOL alongside our 'real' jobs. This means that all the money we raise goes directly towards covering the costs of the march as well as future events.
 
@@ -54,19 +54,19 @@ Our income was generated via:
 
 We also had a lot of support from the organisations who helped us. For example, they lend us speakerphones and a stage and microphones, a first aid box etc. meaning we didn't have to cover those expenses ourselves. 
 
-## What are your goals for the future, and how do you plan to accomplish them?
+#### What are your goals for the future, and how do you plan to accomplish them?
 
 We set out to get people more interested and involved in politics and this is an ongoing project. We are currently working on our #10actions100days campaign where we are asking everyone to complete 10 actions over the course of 100 that will make a positive impact on their community or the general political landscape. 
 
 You can find more information about our 10 actions on the [Women's March on London website](https://www.womensmarchlondon.com/action-2/) 
 
-## What are the biggest lessons you've learned so far? If you had to start over, what would you do differently?
+#### What are the biggest lessons you've learned so far? If you had to start over, what would you do differently?
  
-''Rome wasn't built in a day.'' Everything takes time and so does making a real difference. The march was an aesome start but our work isn't done.
+"Rome wasn't built in a day." Everything takes time and so does making a real difference. The march was an awesome start but our work isn't done.
 
 I'd not do anything different! We learned so much despite the many mistakes we made, but we're the wiser for it. 
 
-## Where can we go to learn more?
+#### Where can we go to learn more?
 
 Please check out our website at [womensmarchlondon.com](https://www.womensmarchlondon.com/)
 
@@ -74,12 +74,14 @@ You can find our [#10actions100days campaign](https://www.womensmarchlondon.com/
 
 You can also follow us on [Facebook](http://www.facebook.com/events/160520691084922), [Instagram](https://www.instagram.com/womensmarchlondon/) and [Twitter](https://twitter.com/womensmarchlon).
 
-<h4>Want to take part in an interview about your cause?</h4>
+#### Want to take part in an interview about your cause?
 
-<p>If you want to take part, just head to <a href="/submit">the submission page</a> and read the guidelines. Feel free to point others there as well.</p>
+If you want to take part, just head to <a href="/submit">the submission page</a> and read the guidelines. Feel free to point others there as well.
 
-<h4>Keep updated with Fantastic Activist</h4>
+#### Keep updated with Fantastic Activist
 
-<p>Want to continue the conversation? Take a look at <a href="http://community.fantasticactivist.com/">the Fantastic Activist community</a>.</p>
+Want to continue the conversation? Take a look at <a href="http://community.fantasticactivist.com/">the Fantastic Activist community</a>.
 
-<p>You can <a href="http://twitter.com/fantactivist">follow us on Twitter @fantactivist</a> and <a href="http://facebook.com/fantasticactivist">like us on Facebook.</a></p>
+You can <a href="http://twitter.com/fantactivist">follow us on Twitter @fantactivist</a> and <a href="http://facebook.com/fantasticactivist">like us on Facebook.</a>
+
+
