@@ -17,7 +17,7 @@ excerpt: Co-organiser Kimberly explains how Women's March on London attracted ov
 
 My name is Kimberly. I live in London and am a freelance food photographer and yoga teacher. 
 
-I am part of the [Women's March on London collective](https://www.womensmarchlondon.com) who organised the Women's March on London on 21 January 2017.
+I am part of the [Women's March on London collective](https://www.womensmarchlondon.com) who organised the Women's March on London (WMOL) on 21 January 2017.
 
 <iframe src="https://player.vimeo.com/video/203443164?byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -46,7 +46,7 @@ From our humble beginnings in snowballed into a massive movement that is still g
 
 We were very lucky as we found a number of organisations such as Unite the Union, Amnesty International and Greenpeace who understood our core message straight away and supported us from very early on. I think what helped in gaining their interest was the fact that the issues we were marching for felt so relevant, so poignant to that moment in time; perhaps if we'd tried to march a year earlier it wouldn't have been as well received though of course we'll never know.
 
-We also worked hard at connecting with the relevant people on social media and attracting their attention as best we could. This lead to us being featured in The Guardian, Stylist magazine and other big newspapers. 
+We also worked hard at connecting with the relevant people on social media and attracting their attention as best we could. This lead to us being featured in [The Guardian](https://www.theguardian.com/lifeandstyle/2017/jan/29/five-things-i-learned-on-the-womens-march-protesting-against-donald-trump), [Stylist magazine](http://www.stylist.co.uk/life/womens-march-washington-london-sister-protest-saturday-where-what-advice-tips) and other national newspapers. 
 
 #### What's the story behind the sustainability of your cause? Is there a revenue generating component to what you do, or is it mainly volunteer work?
 
@@ -56,7 +56,7 @@ Our income was generated via:
 
 1. T-shirt sales 
 2. Gofundme donations
-3. Funding events hosted by supporters. for example, some people arranged coffee mornings to fund raise for us and one woman arranged a comedy night with al proceeds going to WMOL
+3. Funding events hosted by supporters. For example, some people arranged coffee mornings to fund raise for us and one woman arranged a comedy night with all proceeds going to WMOL
 
 We also had a lot of support from the organisations who helped us. For example, they lend us speakerphones and a stage and microphones, a first aid box etc. meaning we didn't have to cover those expenses ourselves. 
 
