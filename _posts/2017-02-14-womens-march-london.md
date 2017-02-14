@@ -13,7 +13,7 @@ excerpt: Co-organiser Kimberly explains how Women's March on London attracted ov
 ---
 
 
-Co-organiser Kimberly explains how Women's March on London attracted over 100,000 to their first ever event - and their plans to continue to make a positive impact in the political landscape.
+Co-organiser Kimberly explains how Women's March on London attracted over 100,000 to their first ever event - and their plans to continue to make a positive impact in the political landscape. [Get new interviews in your inbox by subscribing here](http://eepurl.com/cA_Psf).
 
 #### Tell us about yourself & what cause you're working on.
 
@@ -91,6 +91,8 @@ You can also follow us on [Facebook](http://www.facebook.com/events/160520691084
 If you want to take part, just head to <a href="/submit">the submission page</a> and read the guidelines. Feel free to point others there as well.
 
 #### Keep updated with Fantastic Activist
+
+[Get new interviews in your inbox by subscribing here](http://eepurl.com/cA_Psf).
 
 Want to continue the conversation? Take a look at <a href="http://community.fantasticactivist.com/">the Fantastic Activist community</a>.
 
