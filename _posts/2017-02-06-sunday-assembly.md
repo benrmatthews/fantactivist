@@ -14,6 +14,8 @@ excerpt: Sanderson Jones explains how he went from stand up comics to leading a 
 
 <p>Sanderson Jones explains how he went from stand up comics to leading a new global social movement with <a href="http://www.sundayassembly.com/">Sunday Assembly.</a></p>
 
+[Get new interviews in your inbox by subscribing here](http://eepurl.com/cA_Psf).
+
 <h4>Tell us about yourself and what causes you're working on.</h4>
 
 <p>Hey, my name is Sanderson, though that’s probably written somewhere else on the page so you already know that. I’m co-founder and CEO of Sunday Assembly - we’re working to build secular, inclusive congregational communities across the world. The world is facing a crisis of connection, isolation and people are not reaching near their potential. 
