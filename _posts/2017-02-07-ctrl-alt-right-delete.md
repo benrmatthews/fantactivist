@@ -13,6 +13,8 @@ excerpt: Melissa Ryan tells us about her newsletter devoted to understanding how
 
 Melissa Ryan tells us about her newsletter devoted to understanding how the right operates online and developing strategies and tactics to fight back.
 
+[Get new interviews in your inbox by subscribing here](http://eepurl.com/cA_Psf).
+
 #### Tell us about yourself and your cause
 
 I’m a digital organizer who’s been working at the intersection of politics and technology for over a decade. 
