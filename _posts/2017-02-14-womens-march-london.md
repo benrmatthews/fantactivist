@@ -63,7 +63,7 @@ Our income was generated via:
 
 We also had a lot of support from the organisations who helped us. For example, they lend us speakerphones and a stage and microphones, a first aid box etc. meaning we didn't have to cover those expenses ourselves. 
 
-<img src="womens-march-on-london-events.jpg">
+<img src="/assets/images/womens-march-on-london-events.jpg">
 
 #### What are your goals for the future?
 
