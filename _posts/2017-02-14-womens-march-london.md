@@ -42,6 +42,8 @@ That really allowed us to pull through. That and 10 weeks of sleepless nights as
 
 From our humble beginnings in snowballed into a massive movement that is still going!
 
+<iframe src="https://player.vimeo.com/video/201293568?byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 #### How have you attracted supporters and grown your cause?
 
 We were very lucky as we found a number of organisations such as Unite the Union, Amnesty International and Greenpeace who understood our core message straight away and supported us from very early on. I think what helped in gaining their interest was the fact that the issues we were marching for felt so relevant, so poignant to that moment in time; perhaps if we'd tried to march a year earlier it wouldn't have been as well received though of course we'll never know.
@@ -59,6 +61,8 @@ Our income was generated via:
 3. Funding events hosted by supporters. For example, some people arranged coffee mornings to fund raise for us and one woman arranged a comedy night with all proceeds going to WMOL
 
 We also had a lot of support from the organisations who helped us. For example, they lend us speakerphones and a stage and microphones, a first aid box etc. meaning we didn't have to cover those expenses ourselves. 
+
+<img src="womens-march-on-london-events.jpg">
 
 #### What are your goals for the future, and how do you plan to accomplish them?
 
