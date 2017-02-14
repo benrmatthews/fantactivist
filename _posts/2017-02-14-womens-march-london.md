@@ -13,7 +13,9 @@ excerpt: Co-organiser Kimberly explains how Women's March on London attracted ov
 ---
 
 
-Co-organiser Kimberly explains how Women's March on London attracted over 100,000 to their first ever event - and their plans to continue to make a positive impact in the political landscape. [Get new interviews in your inbox by subscribing here](http://eepurl.com/cA_Psf).
+Co-organiser Kimberly explains how Women's March on London attracted over 100,000 to their first ever event - and their plans to continue to make a positive impact in the political landscape. 
+
+[Get new interviews in your inbox by subscribing here](http://eepurl.com/cA_Psf).
 
 #### Tell us about yourself & what cause you're working on.
 
@@ -22,7 +24,6 @@ My name is Kimberly. I live in London and am a freelance food photographer and y
 I am part of the [Women's March on London collective](https://www.womensmarchlondon.com) who organised the Women's March on London (WMOL) on 21 January 2017.
 
 <iframe src="https://player.vimeo.com/video/203443164?byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 
 #### What motivated you to get started with your cause?
 
@@ -97,5 +98,3 @@ If you want to take part, just head to <a href="/submit">the submission page</a>
 Want to continue the conversation? Take a look at <a href="http://community.fantasticactivist.com/">the Fantastic Activist community</a>.
 
 You can <a href="http://twitter.com/fantactivist">follow us on Twitter @fantactivist</a> and <a href="http://facebook.com/fantasticactivist">like us on Facebook.</a>
-
-
