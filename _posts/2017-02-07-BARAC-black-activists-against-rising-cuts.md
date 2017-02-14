@@ -14,6 +14,8 @@ excerpt: Zita Holbourne explains how BARAC grew as a social movement following t
 
 <p>Zita Holbourne explains how <a href="http://blackactivistsrisingagainstcuts.blogspot.co.uk/">BARAC</a> grew as a social movement following the 2010 General Election, in direct response to the  politics of austerity and the likely disproportionate impact of cuts on black workers, service users, and deprived communities.</p>
 
+[Get new interviews in your inbox by subscribing here](http://eepurl.com/cA_Psf).
+
 <h4>Tell us about yourself and what causes you're working on.</h4>
 
 <p>We were founded in 2010 to respond to the disproportionate impact on black communities of austerity but our remit has widened to campaign also against discrimination towards migrants and refugees, solidarity and aid missions to refugees, campaigning against xenophobia and campaigning against wider racism and injustice faced by black and migrant communities.</p>   
