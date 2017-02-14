@@ -14,7 +14,7 @@ excerpt: Co-organiser Kimberly explains how Women's March on London attracted ov
 &nbsp;
 Co-organiser Kimberly explains how Women's March on London attracted over 100,000 to their first ever event.
 
-#### Tell us about yourself and what cause you're working on.
+#### Tell us about yourself & what cause you're working on.
 
 My name is Kimberly. I live in London and am a freelance food photographer and yoga teacher. 
 
@@ -23,7 +23,7 @@ I am part of the [Women's March on London collective](https://www.womensmarchlon
 <iframe src="https://player.vimeo.com/video/203443164?byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-#### What motivated you to get started with your cause ? What were your initial goals? And how'd you come up with the idea?
+#### What motivated you to get started with your cause?
 
 During 2016 saw a lot of political upheaval and unrest - Brexit, Aleppo, Jo Cox's stabbing and the presidential campaign in the United States, which of course resulted in Trump's election. 
 
@@ -33,7 +33,7 @@ When Trump got elected I was incredibly upset. Then I heard about a Women's Marc
 
 I hit the internet and within hours found a handful of other UK-based women - none of us with any political affiliation or experience - and started the grassroots movement which was to become The Women's March on London. We got more than 100,000 people to march in the streets of London, which exceeded our wildest dreams!
 
-#### What did it take to get your cause off the ground? How has it evolved over time?
+#### What did it take to get your cause off the ground?
 
 As noted already, we found each other via the internet - facebook to be exact. Setting up the page really was quick and easy, but everything thereafter was a labour of love. I mean we were strangers to one another with just one common goal, to march on the 21st of January. 
 
@@ -51,7 +51,7 @@ We were very lucky as we found a number of organisations such as Unite the Union
 
 We also worked hard at connecting with the relevant people on social media and attracting their attention as best we could. This lead to us being featured in [The Guardian](https://www.theguardian.com/lifeandstyle/2017/jan/29/five-things-i-learned-on-the-womens-march-protesting-against-donald-trump), [Stylist magazine](http://www.stylist.co.uk/life/womens-march-washington-london-sister-protest-saturday-where-what-advice-tips) and other national newspapers. 
 
-#### What's the story behind the sustainability of your cause? Is there a revenue generating component to what you do, or is it mainly volunteer work?
+#### What's the story behind the sustainability of your cause?
 
 We are a non-for-profit organisation. This means that none of us take home any money for time that we put into WMOL; we all work on a voluntary basis on WMOL alongside our 'real' jobs. This means that all the money we raise goes directly towards covering the costs of the march as well as future events.
 
@@ -65,13 +65,13 @@ We also had a lot of support from the organisations who helped us. For example, 
 
 <img src="womens-march-on-london-events.jpg">
 
-#### What are your goals for the future, and how do you plan to accomplish them?
+#### What are your goals for the future?
 
 We set out to get people more interested and involved in politics and this is an ongoing project. We are currently working on our #10actions100days campaign where we are asking everyone to complete 10 actions over the course of 100 that will make a positive impact on their community or the general political landscape. 
 
 You can find more information about our 10 actions on the [Women's March on London website](https://www.womensmarchlondon.com/action-2/) 
 
-#### What are the biggest lessons you've learned so far? If you had to start over, what would you do differently?
+#### What are the biggest lessons you've learned so far?
  
 "Rome wasn't built in a day." Everything takes time and so does making a real difference. The march was an awesome start but our work isn't done.
 
