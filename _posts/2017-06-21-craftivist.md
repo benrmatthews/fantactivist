@@ -14,7 +14,7 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 
 <p>We interview Sarah Corbett, the author of <i><a href="https://unbound.com/books/craftivist">How to be a Craftivist: The Art of Gentle Protest</a></i>, a new handbook is offering citizens the opportunity to take part in a quiet but powerful form of activism</p>
 
-<p>If you <a href="https://unbound.com/books/craftivist">pre-order the special edition of the book at Unbound</a> before the deadline of 14 July, you'll get a limited edition copy. As an added bonus, if you pre-oder now, the book will arrive in September - before it is available in the bookshops.</p>
+<p>If you <a href="https://unbound.com/books/craftivist">pre-order the special edition of the book at Unbound</a> before the deadline of 14th July, you'll get a limited edition copy. As an added bonus, if you pre-oder now, the book will arrive in September - before it is available in the bookshops.</p>
 
 <p><i><a href="http://eepurl.com/cA_Psf">Get new interviews in your inbox by subscribing here</a>.</i></p>
 
