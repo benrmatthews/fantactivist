@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'https://craftivist-collective.com/wp-content/uploads/2015/03/17061185960_bc6b331b58_z.jpg'
+cover: '/assets/images/how-to-be-a-craftivist.jpg'
 title: How to be a Craftivist - the Art of Gentle Protest
 date: 2017-03-21 09:00:00
 tags: interviews
@@ -34,6 +34,8 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 
 <p>Good intentions are only the start. Craftivism is a skill we need to hone like any other. That’s why I’ve written a book to help people create strategic and loving pieces of craftivism that can genuinely help change our world.</p>
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/PtHaM7j3Hvg" frameborder="0" allowfullscreen></iframe>
+
 <p>With thoughtful principles, practical examples and honest stories from my own experience as a once burnt out activist, I want to show how activism through craft can produce long-lasting positive change.</p>
 
 <p>You can expect to find a wide range of topics, including:</p>
@@ -47,8 +49,6 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 <li>How to measure the success of your craftivism activities to hone your craft</li>
 </ul>
 
-<p>The book has been endorsed by influencers ranging from Jon Ronson, Lucy Siegle and Jimmy McGovern, to representatives from Oxfam, the Victoria & Albert Museum, Tatty Devine and Goldsmiths University.</p>
-
 <h2>What's your background? How did you get started?</h2>
 
 <p>I'm the daughter of a politician and a vicar. I grew up in a low income area and have 30 years’ practical experience as an activist (since I was 3 years old!) with over 10 years working as a professional campaigner, most recently for Oxfam.</p>
@@ -57,12 +57,15 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 
 <h2>What have other people said about the book?</h2>
 
-<p>Journalist Lucy Siegle, of The Observer, has lent the book her support. She says: 
+<p>The book has been endorsed by influencers ranging from Jon Ronson, Lucy Siegle and Jimmy McGovern, to representatives from Oxfam, the Victoria & Albert Museum, Tatty Devine and Goldsmiths University.</p>
+
+<p>Journalist <a href="https://en.wikipedia.org/wiki/Lucy_Siegle">Lucy Siegle</a>, of The Observer, has lent the book her support. She says: 
 
 <blockquote>“Sarah Corbett mixes an A grade mind with astonishing creativity and emotional awareness. In this book she examines and reframes activism in a way that makes for genuinely spirited, inclusive and effective intervention. Environmental and social justice campaigning typically favours the extrovert and those who self-identify (often rather loudly) as 'leaders'. I think Sarah's book changes that in a super intelligent, engaging way. More power to her!”</blockquote>
 
 <h4>Where can we find out more?</h4>
 <ul>
+<li><a href="https://unbound.com/books/craftivist">Pre-order the book on Unbound</a></li>
 <li><a href="http://www.craftivist-collective.com/">Craftivist Collective website</a></li>
 <li><a href="https://www.facebook.com/CraftivistCollective">Craftivist Collective Facebook page</a></li>
 <li><a href="https://twitter.com/Craftivists?lang=en">@Craftivists</a></li>
