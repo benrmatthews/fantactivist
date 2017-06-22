@@ -18,7 +18,7 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 
 <p>In these times of social, political and economic uncertainty, a new handbook is offering citizens the opportunity to take part in a quiet but powerful form of activism that provokes collaboration and conversation in place of division and conflict.</p>
 
-<p><i><a href="https://unbound.com/books/craftivist">How to be a Craftivist: The Art of Gentle Protest</a><i> has been designed to help people use craftivism (craft + activism) to thread love, humility and beauty through their activism instead of hate, ugliness or aggression.</p>
+<p><i><a href="https://unbound.com/books/craftivist">How to be a Craftivist: The Art of Gentle Protest</a></i> has been designed to help people use craftivism (craft + activism) to thread love, humility and beauty through their activism instead of hate, ugliness or aggression.</p>
 
 <p>Craftivism is for everyone from skilled crafters to burnt out activists, and those people who want to challenge injustice in the world but don’t know what to do, where to start or how to prioritise their energies and time. </p>
 
