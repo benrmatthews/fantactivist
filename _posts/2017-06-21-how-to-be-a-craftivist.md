@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: '/assets/images/how-to-be-a-craftivist.jpg'
+cover: 'assets/images/how-to-be-a-craftivist.jpg'
 title: How to be a Craftivist - the Art of Gentle Protest
 date: 2017-03-21 09:00:00
 tags: interviews
