@@ -12,7 +12,7 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 ---
 
 
-<p>Sarah Corbett is the author of a new handbook is offering citizens the opportunity to take part in a quiet but powerful form of activism</p>
+<p>Sarah Corbett is the author of <i><a href="https://unbound.com/books/craftivist">How to be a Craftivist: The Art of Gentle Protest</a></i>, a new handbook is offering citizens the opportunity to take part in a quiet but powerful form of activism</p>
 
 <p><i><a href="http://eepurl.com/cA_Psf">Get new interviews in your inbox by subscribing here</a>.</i></p>
 
