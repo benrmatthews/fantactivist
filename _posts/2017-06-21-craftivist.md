@@ -34,6 +34,8 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 
 <p>I began to leave small pieces of provocative street art in my area, and those pieces started conversations on and offline. I embroidered a hanky as a gift for my local politician with a personal message. It felt much more respectful than shouting at her. We became critical friends rather than aggressive enemies.</p>
 
+<img src="https://github.com/benrmatthews/fantactivist/blob/master/assets/images/Craftivist%20Jigsaw%20Project.jpg?raw=true">
+
 <h2>What is Craftivism?</h2>
 
 <p>In these times of social, political and economic uncertainty, Craftivism gives citizens the opportunity to take part in a quiet but powerful form of activism that provokes collaboration and conversation in place of division and conflict.</p>
