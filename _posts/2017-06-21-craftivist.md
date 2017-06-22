@@ -42,6 +42,8 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 
 <p>Craftivism is for everyone from skilled crafters to burnt out activists, and those people who want to challenge injustice in the world but don’t know what to do, where to start or how to prioritise their energies and time. </p>
 
+<img src="assets/images/craftivist-collective.jpg">
+
 <h2>What is the concept for the Craftivists book?</h2>
 
 <p><i><a href="https://unbound.com/books/craftivist">How to be a Craftivist: The Art of Gentle Protest</a></i> has been designed to help people use craftivism (craft + activism) to thread love, humility and beauty through their activism instead of hate, ugliness or aggression.</p>
