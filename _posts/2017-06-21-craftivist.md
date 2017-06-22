@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: 'https://craftivist-collective.com/wp-content/uploads/2015/03/17061185960_bc6b331b58_z.jpg'
-title: How to be a Craftivist: the Art of Gentle Protest
+title: How to be a Craftivist - the Art of Gentle Protest
 date: 2017-03-21 09:00:00
 tags: interviews
 subclass: 'post tag-speeches'
