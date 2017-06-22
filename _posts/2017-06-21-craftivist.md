@@ -42,7 +42,7 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 
 <p>Craftivism is for everyone from skilled crafters to burnt out activists, and those people who want to challenge injustice in the world but don’t know what to do, where to start or how to prioritise their energies and time. </p>
 
-<img src="/assets/images/craftivist-collective.jpg">
+<img src="https://github.com/benrmatthews/fantactivist/blob/master/assets/images/craftivist-collective.jpg?raw=true">
 
 <h2>What is the concept for the Craftivists book?</h2>
 
