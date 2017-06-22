@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/craftivist.jpg'
 title: How to be a Craftivist - the Art of Gentle Protest
-date: 2017-03-21 09:00:00
+date: 2017-06-21 09:00:00
 tags: interviews
 subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
