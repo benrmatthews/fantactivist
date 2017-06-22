@@ -26,6 +26,8 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 
 <p>I've also worked with the likes of Unicef, Secret Cinema, Tate, Bauhaus University, and Helsinki Design Week, amongst others.</p>
 
+<img src="https://github.com/benrmatthews/fantactivist/blob/master/assets/images/Craftivist%20Jigsaw%20Project.jpg?raw=true">
+
 <h2>How did you get started as an activist?</h2>
 
 <p>I grew up in a low-income area of Liverpool, and aged just 3 I was joining my parents and community in their campaigning. I went on to become a professional campaigner but I’m an introvert, and so many traditional forms of activism drained me. And I didn’t like demonizing people or telling them what to do.</p>
@@ -33,8 +35,6 @@ excerpt: A new handbook is offering citizens the opportunity to take part in a q
 <p>One day I picked up a craft kit for a long train journey. Stitching immediately calmed me down. It helped me think more clearly and it felt empowering. People asked me questions about what I was making.</p>
 
 <p>I began to leave small pieces of provocative street art in my area, and those pieces started conversations on and offline. I embroidered a hanky as a gift for my local politician with a personal message. It felt much more respectful than shouting at her. We became critical friends rather than aggressive enemies.</p>
-
-<img src="https://github.com/benrmatthews/fantactivist/blob/master/assets/images/Craftivist%20Jigsaw%20Project.jpg?raw=true">
 
 <h2>What is Craftivism?</h2>
 
