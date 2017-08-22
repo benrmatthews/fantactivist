@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/craftivist.jpg'
+cover: 'assets/images/chatterbox.jpg'
 title: Chatterbox - language learning taught by refugees
 date: 2017-06-21 09:00:00
 tags: interviews
