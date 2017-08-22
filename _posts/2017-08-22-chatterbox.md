@@ -103,8 +103,10 @@ excerpt: "Chatterbox is a new project helping refugees better integrate into the
 
 <h2>Where can we go to learn more? (Website, social media links)</h2>
 
-<p><a href="http://www.wearechatterbox.org">www.wearechatterbox.org</a></p>
-<p><a href="http://twiter.com/wearechatterbox">@wearechatterbox</a></p>
+<ul>
+  <li><a href="http://www.wearechatterbox.org">www.wearechatterbox.org</a></li>
+  <li><a href="http://twiter.com/wearechatterbox">@wearechatterbox</a></li>
+</ul>
 
 <h2>Want to take part in an interview about your cause?</h2>
 
