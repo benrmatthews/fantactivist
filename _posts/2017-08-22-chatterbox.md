@@ -1,4 +1,20 @@
-Tell us about yourself and what causes you're working on.
+---
+layout: post
+cover: 'assets/images/craftivist.jpg'
+title: Chatterbox - language learning taught by refugees
+date: 2017-06-21 09:00:00
+tags: interviews
+subclass: 'post tag-speeches'
+categories: 'fantasticactivist'
+navigation: True
+logo: 'assets/images/fantastic-activist-logo-white.png'
+excerpt: Chatterbox is a new project helping refugees better integrate into their adopted homes.
+---
+
+
+<p>
+  
+<h2>Tell us about yourself and what causes you're working on.
 
 I’m currently working on a project helping refugees better integrate into their adopted homes, called Chatterbox. We recruit and train displaced people to teach their native languages to students both online and in-person. This provides paid work and experiences that lead to better social and economic outcomes for the community. This is something that is quite close to my heart as a former refugee, and I hope that my close personal insight into the issue will result in greater social impact through the enterprise.
 
