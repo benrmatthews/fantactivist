@@ -8,10 +8,12 @@ subclass: 'post tag-speeches'
 categories: 'fantasticactivist'
 navigation: True
 logo: 'assets/images/fantastic-activist-logo-white.png'
-excerpt: Chatterbox is a new project helping refugees better integrate into their adopted homes.
+excerpt: "Chatterbox is a new project helping refugees better integrate into their adopted homes."
 ---
 
-<p>Mursal Hedayat explains how she statted <a href="http://www.wearechatterbox.org">Chatterbox</a>, a project employing refugees to teach their native languages.</p>
+&nbsp;
+
+<p>Mursal Hedayat explains how she started <a href="http://www.wearechatterbox.org">Chatterbox</a>, a project employing refugees to teach their native languages.</p>
 
 [Get new interviews in your inbox by subscribing here](http://eepurl.com/cA_Psf).
 
@@ -31,6 +33,8 @@ excerpt: Chatterbox is a new project helping refugees better integrate into thei
   
 <p>Language teaching with Chatterbox is a catalyst for better employment outcomes for the refugees by helping them to regain their professional contacts, confidence, and crucial local work experience so that they can move onto even better opportunities.</p> 
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/sG5EkhpxNK0?ecver=1" frameborder="0" allowfullscreen></iframe>
+
 <h2>What did it take to get your cause off the ground?</h2>
 
 <p>In the early days of Chatterbox I was working on the social enterprise for free from Monday to Friday at the beautiful EdSpace co-working building who were our first sponsors.</p> 
@@ -41,12 +45,13 @@ excerpt: Chatterbox is a new project helping refugees better integrate into thei
 
 <h2>How have you attracted supporters and grown your cause?</h2>
 
-
 <p>I am incredibly grateful to the unimaginably generous and talented team of volunteers who have helped to bring Chatterbox to life over the last year.</p>
   
 <p>They have generally approached us themselves after reading about our work in the news or hearing about us through friends.</p>
 
 <p>The issue of how to look after refugees is one of the defining issues of our time and it’s no surprise that so many people feel very passionately about improving the situation.</p>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/X6-mGx5sNEk?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 <h2>What's the story behind the model and sustainability of your cause?</h2>
 
