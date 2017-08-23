@@ -21,7 +21,7 @@ excerpt: "Chatterbox is a new project helping refugees better integrate into the
 
 <p>I’m currently working on a project helping refugees better integrate into their adopted homes, called <a href="http://www.wearechatterbox.org">Chatterbox</a>. 
   
-<p>We recruit and train displaced people to teach their native languages to students both online and in-person. This provides paid work and experiences that lead to better social and economic outcomes for the community.</p>
+<p>We recruit and train displaced people to teach their native languages to students both online and in-person. This provides paid work and experience that lead to better social and economic outcomes for the community.</p>
   
 <p>This is something that is quite close to my heart as a former refugee, and I hope that my close personal insight into the issue will result in greater social impact through the enterprise.</p>
 
@@ -29,19 +29,19 @@ excerpt: "Chatterbox is a new project helping refugees better integrate into the
 
 <p>I came up with the idea for Chatterbox by observing the gap in employment opportunities for the very large population of refugees who arrive to the UK with advanced degrees and valuable professional skills and experience.</p> 
   
-<p>They are often prevented from using their ample talente to benefit themselves and society, with many becoming trapped in low-skilled, low-paid, and sometime exploitative work that erodes their future employability.</p> 
+<p>They are often prevented from using their ample talent to benefit themselves and society, with many becoming trapped in low-skilled, low-paid, and sometime exploitative work that erodes their future employability.</p> 
   
-<p>Language teaching with Chatterbox is a catalyst for better employment outcomes for the refugees by helping them to regain their professional contacts, confidence, and crucial local work experience so that they can move onto even better opportunities.</p> 
+<p>Language teaching with Chatterbox is a catalyst for better employment outcomes for refugees by helping them to regain their professional contacts, confidence, and crucial local work experience so that they can move onto even better opportunities.</p> 
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/sG5EkhpxNK0?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 <h2>What did it take to get your cause off the ground?</h2>
 
-<p>In the early days of Chatterbox I was working on the social enterprise for free from Monday to Friday at the beautiful EdSpace co-working building who were our first sponsors.</p> 
+<p>In the early days of Chatterbox I was working on the social enterprise for free from Monday to Friday at the beautiful <a href="http://www.edspace.io/">EdSpace</a> co-working building who were our first sponsors.</p> 
   
 <p>Saturdays and Sundays were also spent working full time on paid projects that covered my living expenses.</p> 
   
-<p>After two months of 7-days-a-week working, I was thankfully accepted on the Bethnal Green Ventures tech-for-good accelerator which provided the seed capital and development opportunities that helped Chatterbox get to where it is today.</p>
+<p>After two months of 7-days-a-week working, I was thankfully accepted on the <a href="https://bethnalgreenventures.com/">Bethnal Green Ventures</a> tech-for-good accelerator which provided the seed capital and development opportunities that helped Chatterbox get to where it is today.</p>
 
 <h2>How have you attracted supporters and grown your cause?</h2>
 
