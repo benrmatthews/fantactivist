@@ -92,9 +92,9 @@ excerpt: "Chatterbox is a new project helping refugees better integrate into the
 <p>I think a good understanding of economics is essential for people interested in social change. Some of my favourite reads are:</p>
 
 <ul>
-  <li>Yanis Varoufakis, The Global Minotaur</li>
-  <li>Amartya Sen: Development as Freedom</li>
-  <li>Abhijit Banerjee, ‎Esther Duflo: Poor Economics</li>
+  <li><a href="https://www.yanisvaroufakis.eu/books/the-global-minotaur/">Yanis Varoufakis: The Global Minotaur</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Development_as_Freedom">Amartya Sen: Development as Freedom</a></li>
+  <li><a href="http://www.pooreconomics.com/about-book">Abhijit Banerjee, Esther Duflo: Poor Economics</a></li>
 </ul>
 
 <h2>What other activists do you admire?</h2>
