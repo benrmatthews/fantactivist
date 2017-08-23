@@ -15,7 +15,7 @@ excerpt: "Chatterbox is a new project helping refugees better integrate into the
 
 <p>Mursal Hedayat explains how she started <a href="http://www.wearechatterbox.org">Chatterbox</a>, a project employing refugees to teach their native languages.</p>
 
-[Get new interviews in your inbox by subscribing here](http://eepurl.com/cA_Psf).
+<a href="http://eepurl.com/cA_Psf">Get new interviews in your inbox by subscribing here</a>.
 
 <h2>Tell us about yourself and what causes you're working on.</h2>
 
@@ -116,5 +116,5 @@ excerpt: "Chatterbox is a new project helping refugees better integrate into the
 
 <p>You can <a href="http://twitter.com/fantactivist">follow us on Twitter @fantactivist</a> and <a href="http://facebook.com/fantasticactivist">like us on Facebook.</a></p>
 
-[Or get new interviews in your inbox by subscribing here](http://eepurl.com/cA_Psf).
+<a href="http://eepurl.com/cA_Psf">Or get new interviews in your inbox by subscribing here</a>.
 
